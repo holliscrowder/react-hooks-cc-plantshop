@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Snake Plant",
+      "image": "https://cdn.mos.cms.futurecdn.net/pNug7bBksRVsL54EEE5Wu9.jpg",
+      "price": "18.55",
+      "id": 8
+    },
+    {
+      "name": "Snake Plant",
+      "image": "https://cdn.mos.cms.futurecdn.net/pNug7bBksRVsL54EEE5Wu9.jpg",
+      "price": "18.56",
+      "id": 9
     }
   ]
 }
