@@ -32,6 +32,11 @@ function NewPlantForm({ onAddPlant }) {
       onAddPlant(newPlant);
     };
     postPlant();
+    setFormData({
+      name: "",
+      image: "",
+      price: "",
+    });
   }
 
   return (

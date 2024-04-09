@@ -28,6 +28,11 @@ button.primary {
   color: white;
 }
 
+button.delete {
+  background-color: red;
+  color: black;
+}
+
 .app {
   margin: 0 auto;
   max-width: 1200px;
@@ -95,6 +100,20 @@ input {
 input:focus {
   outline: none;
   border-bottom: 2px solid var(--green);
+}
+
+.update-price input {
+  padding: 0.25rem;
+  border: none;
+  font-family: inherit;
+  font-size: 1em;
+  transition: all 0.2s;
+  border-bottom: 2px solid gray;
+  width: 15%;
+}
+
+.update-price button {
+  border: 10px white;
 }
 
 .cards {
